@@ -8,3 +8,7 @@
           
       }
 ```
+
+```js
+  Object.getOwnPropertyNames();
+```
